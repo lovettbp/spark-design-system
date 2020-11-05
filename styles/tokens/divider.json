@@ -2,7 +2,7 @@
   "divider": {
     "color": {
       "comment": "The value for color of Dividers.",
-      "value": "rgb(230, 230, 230)",
+      "value": "#c2c2c2",
       "attributes": {
         "category": "color"
       },
@@ -11,7 +11,7 @@
     },
     "border": {
       "comment": "The value of border for Dividers.",
-      "value": "2px solid {divider.color.value}",
+      "value": "10px solid {divider.color.value}",
       "attributes": {
         "category": "content"
       },
